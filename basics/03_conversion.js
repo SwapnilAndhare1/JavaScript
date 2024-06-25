@@ -13,3 +13,4 @@ console.log(flag)
 let flag2 = Boolean(flag)
 console.log(typeof flag2)
 console.log(flag2)
+
